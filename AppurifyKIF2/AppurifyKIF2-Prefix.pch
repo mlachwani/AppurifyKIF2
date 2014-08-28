@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'AppurifyKIF2' target in the 'AppurifyKIF2' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
